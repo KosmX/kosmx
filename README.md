@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on [Emotecraft minecraft mod](https://github.com/kosmx/emotes)
 - 📫 How to reach me: [Contact me in the Emotecraft community](https://discord.com/invite/6NfdRuE) (KosmX#7620)
+- 🎮 I like playing videogame*s* (only Minecraft)
 - ⚡ Fun fact:  
 
 
