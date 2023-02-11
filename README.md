@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 
 -->
 - ⚡ I’m learning electrical engineering at [BME](https://www.bme.hu/).
-- 📫 How to reach me: [Contact me in the Emotecraft community](https://discord.com/invite/6NfdRuE) (KosmX#7620)
+- 📫 How to reach me: Matrix: [@kosmx:matrix.kosmx.dev](https://matrix.to/#/@kosmx:matrix.kosmx.dev)  
+Or if you prefer discord: [Emotecraft community server](https://discord.com/invite/6NfdRuE) (KosmX#7620)
 - 🎮 I like playing videogame*s* (only Minecraft)
 - ❓ Fun fact:  
 
